@@ -57,5 +57,4 @@ line = "http://www.kancloud.cn/kancloud/python3-cookbook/47137"
 http,empty,DNS,*path = line.split('/')
 print("协议: "+http)
 print("DNS:"+DNS)
-print('path:')
 print(path)
