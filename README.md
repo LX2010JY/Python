@@ -1,1 +1,1 @@
-come from 笨方法学Python
+come from python3 CookBook
