@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/my_Blog.iml" filepath="$PROJECT_DIR$/.idea/my_Blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../scrapy/scrapy-weather/.idea/scrapy-weather.iml" filepath="$PROJECT_DIR$/../../scrapy/scrapy-weather/.idea/scrapy-weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../scrapy/scrapy_test1/.idea/scrapy_test1.iml" filepath="$PROJECT_DIR$/../../scrapy/scrapy_test1/.idea/scrapy_test1.iml" />
     </modules>
   </component>
 </project>
