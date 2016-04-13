@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Post list</title>
+</head>
+<body>
+    <h1 align="center">博客列表</h1>
+    {% if latest_poll_list %}
+        <ol>
+            {% for poll in latest_poll_list %}
+                <li><a href="{% url 'polls:detail' poll.id %}">{{ poll.question }}</a> </li>
+            {% endfor %}
+        </ol>
+    {% else %}
+        <p>No polls are avaliable </p>
+    {% endif %}
+</body>
+</html>
