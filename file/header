@@ -1,0 +1,8 @@
+HTTP/1.1 403 Forbidden
+Server: squid/2.7.STABLE5
+Date: Fri, 15 Apr 2016 01:54:25 GMT
+Content-Type: text/html
+Content-Length: 122
+X-Squid-Error: ERR_ACCESS_DENIED 0
+X-Cache: MISS from cernet194-227.sina.com.cn
+Connection: close
